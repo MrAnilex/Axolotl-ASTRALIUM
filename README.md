@@ -11,3 +11,6 @@ Here is a set of rules I ask you to follow to respect my work :D  :
 - Please don’t present yourself as the sole creator of this model.
 
 Thanks !! :D
+
+File under license :
+[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
