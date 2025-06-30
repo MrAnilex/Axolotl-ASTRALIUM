@@ -6,8 +6,8 @@ Here is a set of rules I ask you to follow to respect my work :D  :
 
 - PLEASE DO NOT SELL THIS MODEL 
 
-- The best way to show appreciation is to credit me when you use this template <3
+- The best way to show appreciation is to credit me when you use this template ! <3
 
-- Please do not fully claim the model as your own.
+- Please don’t present yourself as the sole creator of this model.
 
 Thanks !! :D
