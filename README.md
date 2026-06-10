@@ -10,11 +10,8 @@ BUT, Here is a set of rules I ask you to follow to respect my work :D  :
 
 - The best way to show appreciation is to credit me when you use this template ! <3 (optional but that would be extremely kind of you ! :D )
 
-- Please don’t present yourself as the sole creator of this model.
-
-Thanks !! :D
-
+Thanks !! 
 
 
 File under license :
-[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+Free Software Foundation [GNU General Public License v3.0 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.html)
